@@ -1,0 +1,262 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Pronoun Antecedent Agreement</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38606</md:content-id>
+  <md:title>Pronoun Antecedent Agreement</md:title>
+  <md:abstract>Pronouns substitute nouns and, many times, refer to their antecedents, which are nouns or pronouns that the pronouns stand for. In English, most nouns are neutral in gender and use the pronoun <foreign>it</foreign>, <foreign>its</foreign>, or <foreign>they</foreign> or <foreign>their</foreign>. Nouns that refer to females or males (girl, boy, woman, man, lady, gentleman, mother, father, brother, sister, proper names of people) take pronouns such as <foreign>he</foreign>, <foreign>she</foreign>, <foreign>his</foreign>, <foreign>her</foreign>, or <foreign>him</foreign>.
+<para>
+<emphasis>A pronoun must always agree with its antecedent in both number and gender.</emphasis>
+</para></md:abstract>
+  <md:uuid>82708f33-4b7a-4026-94a0-3b5e1e21f97e</md:uuid>
+</metadata>
+
+<content>
+    
+    
+    
+    
+    
+    
+    <section id="eip-982"><title>Objectives</title><para id="eip-616"/></section>
+    <para id="id1169702599865">Students will learn about pronoun-antecedent agreement. They will be able to locate the antecedent for each pronoun, and determine whether the pronoun should be neutral, gender specific, singular, or plural. </para>
+    <para id="id1169713197749">Students will learn that "<foreign>he or she</foreign>" should be used with indefinite singular pronouns that refer to a specific type of person (doctor, lawyer, engineer, representative) in order to avoid sexist language. Furthermore, when writing, students should consider replacing antecedents that refer to persons into the plural form to avoid overusing “<emphasis effect="italics">he or she</emphasis>” in sentences.</para>
+    <para id="id1169696823759">Students will also learn that compound subjects using “<emphasis effect="italics">and</emphasis>” use the plural form of pronouns. For compound subjects joined by “<emphasis effect="italics">neither</emphasis>-<emphasis effect="italics">nor</emphasis>” or “<emphasis effect="italics">either</emphasis>-<emphasis effect="italics">or</emphasis>”, the pronoun should agree with the antecedent that is <emphasis effect="bold">closest</emphasis> to the subject. In the below example, the antecedents/pronouns are in bold print.</para>
+    <para id="id1169696740196">Example: The <emphasis effect="bold">teacher</emphasis> and the <emphasis effect="bold">students</emphasis> will attend <emphasis effect="bold">their</emphasis> graduation ceremony.</para>
+    <para id="id1169704007290">Either/Neither the teacher or/nor the <emphasis effect="bold">students</emphasis> will attend <emphasis effect="bold">their</emphasis> graduation ceremony. </para>
+    <section id="id1169695553190">
+      <title>Teaching strategies: </title>
+      <para id="id1169704090348">The instructor should review personal, possessive, indefinite singular and indefinite plural pronouns, and collective nouns with the students (see tables below). Students need to learn that personal pronouns are classified as subjects or objects of a sentence depending on where they are located in a sentence. Possessive pronouns can serve as adjectives to modify nouns (used before the noun), or to indicate ownership.</para>
+      <para id="id1169701508708">
+        <table id="id1169695461484" summary=""><tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c4"><emphasis effect="bold">PERSONAL &amp; POSSESSIVE PRONOUNS</emphasis></entry>
+              </row>
+              <row>
+                <entry><emphasis effect="bold">SUBJECT</emphasis></entry>
+                <entry><emphasis effect="bold">OBJECT</emphasis></entry>
+                <entry><emphasis effect="bold">POSSESSIVE</emphasis> (used before a noun)</entry>
+                <entry><emphasis effect="bold">POSSESSIVE PRONOUN</emphasis></entry>
+              </row>
+              <row>
+                <entry>I</entry>
+                <entry>Me</entry>
+                <entry>My </entry>
+                <entry>Mine</entry>
+              </row>
+              <row>
+                <entry>You</entry>
+                <entry>You</entry>
+                <entry>Your</entry>
+                <entry>Yours</entry>
+              </row>
+              <row>
+                <entry>He</entry>
+                <entry>Him</entry>
+                <entry>His</entry>
+                <entry>His</entry>
+              </row>
+              <row>
+                <entry>She</entry>
+                <entry>Her</entry>
+                <entry>Her </entry>
+                <entry>Hers</entry>
+              </row>
+              <row>
+                <entry>It</entry>
+                <entry>It</entry>
+                <entry>Its</entry>
+                <entry>Its</entry>
+              </row>
+              <row>
+                <entry>We </entry>
+                <entry>Us</entry>
+                <entry>Our</entry>
+                <entry>Ours</entry>
+              </row>
+              <row>
+                <entry>You</entry>
+                <entry>You</entry>
+                <entry>Your</entry>
+                <entry>Yours</entry>
+              </row>
+              <row>
+                <entry>They</entry>
+                <entry>Them</entry>
+                <entry>Their</entry>
+                <entry>Theirs</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </para>
+      <para id="id1169694175794">The following indefinite pronouns are <emphasis effect="bold">always</emphasis> singular in number:</para>
+      <table id="id1169716873846" summary=""><tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c5"><emphasis effect="bold">Indefinite Singular Pronouns</emphasis> </entry>
+            </row>
+            <row>
+              <entry>Anybody</entry>
+              <entry>Each</entry>
+              <entry>Everyone</entry>
+              <entry>Nobody</entry>
+              <entry>Somebody</entry>
+            </row>
+            <row>
+              <entry>Anyone</entry>
+              <entry>Either</entry>
+              <entry>Everything</entry>
+              <entry>No one</entry>
+              <entry>Someone</entry>
+            </row>
+            <row>
+              <entry>Anything</entry>
+              <entry>Everybody</entry>
+              <entry>Neither</entry>
+              <entry>Nothing</entry>
+              <entry>Something</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169692488154">The table below provides pronouns that may be either singular or plural pronouns:</para>
+      <para id="id1169694178926"/>
+      <table id="id1169716899717" summary=""><tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c3"><emphasis effect="bold">INDEFINITE SINGULAR OR PLURAL PRONOUNS</emphasis></entry>
+            </row>
+            <row>
+              <entry>PLURAL</entry>
+              <entry namest="c2" nameend="c3">SINGULAR OR PLURAL (depending on the noun it represents)</entry>
+            </row>
+            <row>
+              <entry>Both</entry>
+              <entry>All</entry>
+              <entry>Some</entry>
+            </row>
+            <row>
+              <entry>Few</entry>
+              <entry>Any</entry>
+              <entry>More</entry>
+            </row>
+            <row>
+              <entry>Many</entry>
+              <entry>Either</entry>
+              <entry>Most</entry>
+            </row>
+            <row>
+              <entry>Several</entry>
+              <entry>None</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169711994557">Collective nouns are usually singular unless the meaning is plural, when its members function as individuals. Below are common collective nouns to share with the students:</para>
+      <table id="id1169721331142" summary=""><tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c4"><emphasis effect="bold">COLLECTIVE NOUNS</emphasis></entry>
+            </row>
+            <row>
+              <entry>Army</entry>
+              <entry>Committee</entry>
+              <entry>Herd</entry>
+              <entry>Number</entry>
+            </row>
+            <row>
+              <entry>Audience</entry>
+              <entry>Crew</entry>
+              <entry>Jury</entry>
+              <entry>Pack</entry>
+            </row>
+            <row>
+              <entry>Band</entry>
+              <entry>Crowd</entry>
+              <entry>Kind</entry>
+              <entry>Pair</entry>
+            </row>
+            <row>
+              <entry>Bunch</entry>
+              <entry>Dozen</entry>
+              <entry>Litter</entry>
+              <entry>Public</entry>
+            </row>
+            <row>
+              <entry>Class</entry>
+              <entry>Galaxy</entry>
+              <entry>Lot</entry>
+              <entry>Staff</entry>
+            </row>
+            <row>
+              <entry>Company</entry>
+              <entry>Group</entry>
+              <entry>Majority</entry>
+              <entry>Team</entry>
+            </row>
+            <row>
+              <entry>Couple</entry>
+              <entry>Heap</entry>
+              <entry>Minority</entry>
+              <entry>Tribe</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1169696779737">The instructor should review all material prior to teaching this lesson. In the slide show, the definition of pronoun-antecedent agreement is provided. Students should learn to identify the antecedent to a pronoun, and the pronoun itself: personal, possessive, indefinite singular, or indefinite plural. In addition, students should understand that collective nouns are usually singular but may be plural depending on whether its members function as a whole or as individuals. </para>
+      <para id="id1169709421698">The PowerPoint presentation provides the above-mentioned rules for pronoun-antecedent agreement. Four interactive practice slides (# 4, # 6, # 8, and # 12) offer in-class practice activities for the instructor to review with the class. Each practice sentence is animated individually so that the instructor can ask students to select the correct answer within the options that are given. After students respond, with a mouse click, the correct answer appears. The following general rules to pronoun-antecedent agreement are emphasized in the final slides of the PowerPoint presentation (slides # 13 and #14):</para>
+      <list id="id1169695305300" list-type="enumerated" number-style="arabic"><item>All pronouns have antecedents, which refer to person(s) or object(s) that are previously mentioned in the text. </item>
+        <item>Singular antecedents use singular pronouns.</item>
+        <item>Plural antecedents use plural pronouns.</item>
+        <item>Avoid sexist language; instead, use gender-neutral &amp; plural antecedents (persons, individuals, students, people, human beings, postal workers, coordinators).</item>
+        <item>The gender of a pronoun must match its antecedent: Diana waited for <emphasis effect="italics">her</emphasis> husband.</item>
+<item>Most indefinite pronouns are singular.</item>
+        <item>Generic nouns (doctor, student, writer, member, person) represent both males and females. 
+-- A college student has <emphasis effect="italics">his or her</emphasis> own point<emphasis effect="italics"/> of view.</item>
+<item>Change generic nouns to plural to fix agreement problems. -- College students have <emphasis effect="italics">their</emphasis> own point<emphasis effect="italics">s</emphasis> of view.</item>
+<item>Collective nouns are usually singular unless the people in the collective group act as individuals.</item>
+        <item>If you’re not sure, look it up!</item>
+      </list>
+      
+      
+      
+      
+      
+    </section>
+    <section id="id1169711075977">
+      <title>Materials:</title>
+      <para id="id1169689407150">In order to offer this lesson, instructors need a computer and a multi-media projector.</para>
+      <para id="id1169695371715">The following materials are provided with this module: </para>
+      <list id="id1169713338355" list-type="enumerated" number-style="arabic"><item><link url="http://academic.uprm.edu/ggriggs/Pron-Ant/Pronoun-Antecedent%20Agreement.ppsx" window="new">PowerPoint slide show</link></item>
+        <item><link url="http://academic.uprm.edu/ggriggs/Pron-Ant/Handout-Pronoun-Antecedent%20Agreement.pdf" window="new">A hand-out of the slide show for students <emphasis effect="bold">after</emphasis> they receive the lesson</link></item>
+        <item>Two practice sheets with pronoun-antecedent agreement exercises: <link url="http://academic.uprm.edu/ggriggs/Pron-Ant/Practice%20I-Pronoun-Antecedent.pdf" window="new">Practice I-Pronoun-Antecedent Agreement</link>; <link url="http://academic.uprm.edu/ggriggs/Pron-Ant/Practice%20II-Pronoun-Antecedent.pdf" window="new">Practice II-Pronoun-Antecedent Agreement</link></item>
+        <item>Answer sheets for the two practice exercises: <link url="http://academic.uprm.edu/ggriggs/Pron-Ant/Answers-Practice%20I-Pronoun-Antecedent.pdf" window="new">
+Answers-Practice I</link> and <link url="http://academic.uprm.edu/ggriggs/Pron-Ant/Answers-Practice%20II-Pronoun-Antecedent.pdf" window="new">
+Answers-Practice II</link></item>
+      </list>
+    </section>
+    <section id="id1169704002929">
+      <title>Assessment:</title>
+      <para id="id1169691493105">The authors recommend that the instructor distribute the practice sheets to the students as a pre-test prior to receiving the lesson. After completing the lesson, students should answer the practice sheets again as a post-test. In this way, instructors may determine whether the students master this objective or require additional instructional support. </para>
+      <para id="id1169703488023"/>
+    </section>
+  </content>
+</document>

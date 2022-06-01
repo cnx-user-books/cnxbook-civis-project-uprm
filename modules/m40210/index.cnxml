@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>How to make Biodiesel</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m40210</md:content-id>
+  <md:title>How to make Biodiesel</md:title>
+  <md:abstract>This module is divided into three sections:
+ Part 1: Analysis of the raw material 
+Part 2: Making biodiesel 
+Part 3: Biodiesel analysis
+This distribution of work allows the users to operate it in three separate laboratory procedures or in a combination of them, according to their current needs or interests. Additionally, the raw material from which biodiesel is produced will be selected.</md:abstract>
+  <md:uuid>315c6f65-905a-4f3d-8e60-d29595de6406</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://uprm.edu/" strength="3">UPRM</link>
+      <link url="http://www.biodiesel.org" strength="2">http://www.biodiesel.org</link>
+      <link url="http://www.energy.gov/energyefficiency/energystar.htm" strength="2">http://www.energy.gov/energyefficiency/energystar.htm</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <para id="delete_me"><title>Part 1: Analysis of Raw Material</title>In Part 1, students will develop skills required for testing the selected raw material by performing titration analysis, calculations and determining the quality of the raw material for the production of biodiesel. The conclusions obtained from this part will determine the best method to produce biodiesel from the selected raw material.</para>
+
+<figure id="biodiesel_part-1"><title>Part 1</title><media id="part1" alt="Part 1 - Biodiesel">
+		<download mime-type="application/msword" src="PART 1.doc"/>
+	</media>
+	<caption>Click on filename to download.
+  </caption></figure>
+
+
+<para id="eip-123"><title>Part 2: Making Biodiesel</title>Once this is performed, during Part 2 the student may prepare biodiesel. This is a very simple chemical reaction. Meanwhile, students must also follow the safety rules related to this process. The MSDS of the chemicals to be used in the process must be discussed as well as making sure safe laboratory practices are used. </para>
+
+
+<figure id="biodiesel_part-2"><title>Part 2</title><media id="part2" alt="Part 2 - Biodiesel">
+		<download mime-type="application/msword" src="PART 2.doc"/>
+	</media>
+	<caption>Click on filename to download.
+  </caption></figure>
+
+<para id="eip-732"><title>Part 3: Analysis of the Biodiesel</title>Finally in Part 3, students will develop skills in the analysis of biodiesel and will be able to distinguish between biodiesel and glycerin, the main byproduct of this process. </para>
+
+
+<figure id="biodiesel_part-3"><title>Part 3</title><media id="part3" alt="Part 3 - Biodiesel">
+    <download mime-type="application/msword" src="PART 3.doc"/>
+  </media>
+  
+<caption>Click on filename to download.
+  </caption></figure>
+
+
+</content>
+
+</document>

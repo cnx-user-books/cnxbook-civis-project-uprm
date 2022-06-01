@@ -1,0 +1,188 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Technological Choice</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32418</md:content-id>
+  <md:title>Technological Choice</md:title>
+  <md:abstract>This module will help you explore the broader social and technical impacts of business systems, services, and products.  It has been developed to compliment another module, "Social and Technical Systems for Professional Decision-Making, m14025.  It presents three lenses under which to view social and technical impacts: Technological Determinism, Social Construction, and Technological Politics.  These lenses come from Robert Heilbroner, Trevor Pinch and Wiebe Bijker, and Langdon Winner.  It provides exercises that can be used to complement the readings provided in Technology and Society edited by Deborah Johnson and Jameson Wetmore.  This "Technological Choice" module is part of the EAC Toolkit, a project developed under National Science Foundation grant SES 0551779.</md:abstract>
+  <md:uuid>f97d4e4c-5802-439e-8408-e6693d25436f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://www.pbs.org/newshour/bb/social_issues/july-dec07/laptop_11-22.html" strength="3">Interview on MIT Laptops</link>
+      <link url="http://www.pbs.org/wgbh/pages/frontline/story/2010/04/your-digital-trash.html" strength="3">Frontline Documentary: Your digital trash</link>
+      <link url="http://news.yahoo.com/s/ap/20100923/ap_on_bi_ge/eu_britain_wind_farm_1" strength="3">World's Largest Windmill Farm</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m14025/latest/" strength="3">Socio-Technical Systems for Professional Decision-Making</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <section id="eip-131"><title>Test Cases</title><list id="eip-804"><item>Your company, Cogentrix, proposes a cogeneration plant that uses coal to produce electricity and steam both of which it sells to make money.  Because western Puerto Rico lacks electricity generating capacity and because the steam by-product can be sold to nearby tuna canning plants, your company finds the Mayagüez area particularly attractive.  But there are rumors that different local constituencies oppose this project because of concerns about the environmental impact of coal use and industrialization.  Prepare a STS analysis of the Mayagüez area.  Can you identify any potential value mismatches between this system and the cogeneration plant your company is planning?  How can these mismatches be mitigated or eliminated?</item> 
+
+<item>Your company, Southern Gold Resources, wants to mine different regions in central Puerto Rico for copper and gold.  But you know that twenty years earlier, two proposals by two international mining companies were turned down by the Puerto Rican government due to strong local opposition.  Carry out a socio-technical system that concentrates on the financial, social, and environmental impact of a smaller scale mining project.  How would you address the opposition to the older mining proposals should they also arise in relation to yours?  What does your STS analysis tell you about social and ethical impacts, financial potential, and possible grass roots opposition?  Are profitable mining operations compatible with the community and environmental values?  What is your recommendation based on your STS analysis?</item>
+ 
+<item>Windmar, a company that manufactures and operates windmills for electricity generation has proposed to build a windmill farm adjacent to the Bosque Seco de Guanica.  They have encountered considerable local opposition which stems from three concerns: (1) Given that Windmar is a private business, can it be trusted to carry out its project as proposed?  Can any private business be trusted to “keep its word.” (2) Will locating the windmill farm so close to the Bosque Seco de Guanica have a harmful impact on the fragile ecosystem and its non-human inhabitants?  (3) Why were public hearings on the project held so far away from the very communities who would most likely suffer its impacts?  Windmill technology has traditionally been considered one of the cleanest ways to generate electricity.  But this doesn’t mean that it represents a harm-free technology.  How can windmills harm the environment?  How can their construction and operation harm the communities in which they are housed?  Carry out a socio-technical system analysis to understand and clarify this opposition.  Can the concerns of local stakeholders be integrated with a profitable, privately owned and operated windmill farm?  How should the windmill project be modified to improve the chances of its being implemented?</item> 
+
+<item>Assume that the Puerto Rico government has decided to give a laptop computer to every public school student.  What would happen?  What would be the benefits?  What would be the harms?  Construct a socio-technical analysis of the Puerto Rico public school system and study the impact of the laptop project on this system.  Are there any mismatches between the values embedded in laptops technology and this STS?  Would the laptop project be feasible?  (What constraints are likely to make integration difficult?)  Would it be necessary to redesign laptop computers to make this technology more responsive to the special needs of children?  What changes or adjustments would need to be made in the Puerto Rico public school STS?</item>
+</list></section><section id="eip-39"><title>Introduction</title><para id="eip-474">This module is a companion to the module, “Socio-Technical Systems in Professional Decision-Making” (m14025).  It also responds to recent work in an area dubbed, Science and Technology Studies.  (Johnson and Wetmore’s anthology, <emphasis>Technology and Society: Building Our Sociotechnical Future</emphasis>, provides a good sampling of recent articles in this area.)  You will be provided with three lenses through which to view technologies.  Each lens presents a different conception of the relation of technology to society; no single lens is completely true or completely false.  Rather, each is distinguished by the way in which it selects certain elements from experience as areas for concentration and focus.  Thus, lenses are tools that will prove useful as you navigate through the complexity of different socio-technical systems.  Working with these lenses will give you a multi-layered and multi-dimensional view of the different ecologies (social, technical, and natural) that surround you and within which you work.
+</para></section><para id="delete_me">
+     <!-- Insert module text here -->
+  </para><section id="eip-327"><title>What you need to know.</title><section id="eip-35"><title>Lenses are not ideologies</title><list id="eip-591"><item>An ideology presents a particular world view as the truth.  Thomas Kuhn characterized ideologies or world views as “paradigms” in his book, <emphasis>The Structure of Scientific Revolutions</emphasis>.  For Kuhn, paradigms form self-contained accountings of the world and are incommensurable with one other.  During certain “normal” periods, these paradigms can construct positive and useful lines of inquiry and discovery.</item>  
+
+<item>But incommensurable paradigms also battle with one another during “revolutionary” periods for dominance.  Kuhn’s highly controversial claim is that disputes between rival, paradigms cannot be resolved by recourse to rational means.  Instead, they become power struggles, not unlike the power struggles in the political realm between competing classes and their supporting ideologies.</item>  
+
+<item>Treating different views on the relation between technology and society as lenses rather than incommensurable ideologies or paradigms, allows us to explore and compare the different lines of inquiry each opens.  Lenses are tools that support inquire, drive discovery, and refashion the surrounding world.  Each lens provides a partial view of experience.  Viewing experience through multiple lenses helps us to build a richer, multi-level and multi-perspective for trouble shooting and problem-solving.</item>
+
+<item>In this module, you will view the four cases presented above through the lenses of technological determinism, social construction, and technological politics.  These different lenses should help you to understand and control technology more effectively and safely.</item>
+</list></section><section id="eip-617"><title>Lens One: Technological Determinism</title><list id="eip-503"><item>Marx provides the classical statement of technological determinism: “In acquiring new productive forces men change their mode of production; and in changing their mode of production, in changing the way of earning their living, they change all their social relations.  The hand-mill gives you society with the feudal lord; the steam-mill society with the industrial capitalist.”  <emphasis>Quoted by Langdon Winner in Autonomous Technology, 79</emphasis></item> 
+
+<item>Technological determinism thus claims that certain technological devices (electricity, the automobile, the computer) recreate our material conditions in such a way that they determine the nature of our social consciousness and restructure our social and economic relations to one another.</item>  
+
+<item>The following quote shows that, for Heilbroner, technological determinism comes from a unique convergence of events during modern times.  Science has advanced to a particular point in harmony with certain machine-oriented skills.</item>
+
+<item>“Technological Determinism is thus peculiarly a problem of a certain historical epoch—specifically that of high capitalism and low socialism—in which the forces of technical change have been unleashed but when the agencies for the control or guidance of technology are still rudimentary.” (Johnson and Wetmore, 104)</item>
+
+<item>Thus, a knowledge base (formed out of value-neutral, mechanistic science) has been combined with a platform of technical know-how (such as the ability to fashion metal with precision into complex machines) to give rise to certain economic relations (capitalist to worker).  But, because our political system was developed in pre-industrial times, it is not able to control the current technological revolution.  The technology controls us much to our detriment.  To take back control, we must radically reconstitute both our technology and our social and economic relations.</item>
+</list><list id="eip-187"><title>Feenberg on Technological Determinism</title><item>Andrew Feenberg in <emphasis>Questioning Technology</emphasis> provides a concise characterization of technological determinism.  It is based on the assumptions of unilinear progress and determinism by base.  </item>
+
+<item><emphasis>Unilinear Progress</emphasis>: Technological progress appears to follow a unilinear course, a fixed track, from less to more advanced configurations.  Each stage of technological development enables the next, and there are no branches off the main line."  Feenberg, 77</item>
+
+<item><emphasis>Determinism by Base</emphasis>: "Technological determinism also affirms that social institutions must adapt to the "imperatives" of the technological base.  This view, which do doubt has its source in a certain reading of Marx, is long since the common sense of the social sciences.  Adopting a technology necessarily constrains one to adopt certain practices that are connected with its employment."  Feenberg 77</item>
+
+<item>Leslie White on determination by base:  "We may view a cultural system as a series of three horizontal strata: the technological layer on the bottom, the philosophical on the top, the sociological stratum in between.  These positions express their respective role in the culture process.  The technological system is basic and primary.  social systems are functions of technologies; and philosophies express technological forces and reflect social systems.  The technological factor is therefore the determinant of a cultural system as a whole.  It determines the form of social systems, and technology and society together determine the content and orientation of philosophy."  Quoted by Winner, Autonomous Technology, 79.</item></list><list id="eip-205" list-type="enumerated" number-style="arabic"><title>Lens Questions:</title><item>What forms of social and political organization does the technology create as it is integrated into the surrounding socio-technical system?  This general question can be specified in the following ways:</item>
+
+<item>Which organizational decision-making approach is elicited by the technology?  A vertical approach where those at the bottom carry out mandates set by those at the top?  Or a horizontal structure, where decision-makers collaborate in a consensus-based approach to problem-solving and decision making? </item>
+
+<item>Does the technology elicit a division of work tasks into specialized roles that are coordinated from above?  (By high-level managers?)  Or does it encourage a more holistic approach to work that consists of overlapping roles and constant communication between these roles?  </item>  
+
+<item>Does the technology lead to centralization or decentralization of power and control?  For example, many advocate windmills (and other technologies on the "soft path") because they allow for the generation of electricity from small, local, and dispersed areas of production.  (This despite the fact that windmill technology is becoming more complex and windmill "farms" represent larger centers of energy production.) On the other hand, nuclear technology requires highly centralized operating and decision procedures because of the risk of accidents of high magnitude and scope.  Centralization enhances control which, supposedly, reduces the chance for disastrous accidents.</item>
+
+<item>Following Mumford, we might ask whether the technology elicits a <emphasis>democratic</emphasis> or <emphasis>authoritarian</emphasis> organization of economic, social and political activities as it is implemented?  Democratic exercise of power would take place through horizontally organized, decentralized, and locally situated centers of control and power.  Authoritarian exercise of power would take place through vertically organized, centralized, remotely situated centers of control and power.</item>
+
+</list></section><section id="eip-385"><title>Lens Two: Social Construction</title><list id="eip-404"><item>This lens comes from Pinch and Bijker’s article, “The Social Construction of Facts and Artifacts.”  Social construction makes the opposite claim to technological determinism.  Instead of holding that technology determines society, the social constructionist argues that society determines or “constructs” the technology.  This lens, then, will help you to see the contribution that individuals and groups make to the social construction of technologies.</item>
+
+<item>Pinch and Bijker begin with an application of <emphasis>epistemological relativism</emphasis> to science and technology. </item> 
+
+<item>Relativism may be a misnomer here since it argues that individuals or groups bestow truth and value on the surrounding world.  Humans according to the Greek thinker, Protagoras, are the measure of all things, of those that are, that they are and of those that are not, that they are not.  So classical relativism holds that humans-—as individuals or as groups-—provide the standards by which all things are assessed.</item>
+
+<item>But the relativism that Bijker and Pinch advocate is for methodological, not ontological, purposes.  All scientific theory proposals and all technological variations are treated the same whether successes or failures.  They are all grist for the historian's mill.  This gives us special insight into how they are generated, how they compete with one another, how individuals interact with them, and on how, finally, the successes are selected and the failures de-selected.  This methodological relativism lays bare the process of social construction concealed in the final product.</item>
+</list><list id="eip-975" list-type="enumerated" number-style="arabic"><title>Looking at the development of technologies, Pinch and Bijker identify three stages:</title><item>The first stage exhibits interpretive flexibility.  Because the design of an artifact and its meaning are open, social interaction and transaction generates different variations.  (Their example is the different bicycle designs that competed for market share before the small wheeled, safer version won out.)  Many variations are generated which compete with one another.  This positive competition stimulates creativity.  Individuals interact with the variations that are produced, experimenting with them and, through this experimentation, clarifying their interests, values, and concerns.  The interests, needs, and problems clarified become filters that select and de-select variations.</item>
+
+<item>The second stage is characterized as the closing of interpretive flexibility.  Needs, interests, and problems stabilize.  They select and de-select variations so that most drop off to the side.  Because individuals interact with facts and artifacts, because they experiment with them, select those that meet their needs and de-select those that don't, they literally and socially construct them.</item>
+
+<item>In the third stage, closure is achieved through <emphasis>rhetorical means</emphasis> (such as advertising), <emphasis>problem definition</emphasis> (which keeps some problems and dissolves others), and <emphasis>inclusion in a wider context</emphasis> where the variations selected fit into the surrounding socio-technical system. Closure leads us to forget the historical process of social construction, i.e., interpretive flexibility and closure of interpretive flexibility.  Hence, we treat the final technology as a black box that has always been there and is somehow inevitable.  But re-opening the historical process reminds us that the black box has been constructed and selected to incorporate our needs, problems, and values.</item>
+</list></section><section id="eip-199"><list id="eip-859" list-type="enumerated" number-style="arabic"><title>Lens Questions</title><item>What is the historical process that has culminated in the current form the technology has taken?  Specifically...</item> 
+ 
+<item>Did users and non-experts participate in the process of generating alternative interpretations of the technology?  How did they participate?  Do these alternatives embody the values and interests of stakeholders in their designs?  (Corresponds to <emphasis>flexibility of interpretation</emphasis>.</item>
+
+<item>Did users and non-experts participate in the closing of flexibility of interpretation by helping to select "winners" from among the competing forms?  How did they participate and how does the design of the "winners" reflect their interests and values?  (This corresponds to the <emphasis>closing of interpretive flexibility.</emphasis>)  </item>
+
+<item>What are the final criteria embodied in the closed and fixed technological design?  Did a broad range of stakeholders participate in establishing these criteria?  Did these criteria play a direct role in selecting the final design from among the initial variants?  Does the final design or "black box" adequately reflect the needs, interests, and values of the broad range of stakeholders affected by this technology?  (This reflects the final or <emphasis>closure</emphasis> stage.)</item>
+</list></section><section id="eip-994"><title>Lens Three: Technologies and Politics</title><para id="eip-668">Background from <emphasis>Autonomous Technology</emphasis> by Langdon Winner (From Hickman, <emphasis>John Dewey’s Pragmatic Technology</emphasis>, 148 and following.) 
+</para><list id="eip-11" list-type="enumerated" number-style="arabic" class="stepwise"><title>Winner starts by criticizing the “straight-line” notion of tool use: tools serve ends bestowed on them by the user.  There are four reasons why this doesn’t work:</title><item><emphasis>Manifest Complexity</emphasis>: The technology or tool displays complexity such as “tightly coupled systems” and “non-linear” chains of causality."  For example, nuclear reactors are highly complicated and, therefore, difficult to control.  Because they are tightly coupled they are subject to what Perrow calls “normal accidents” where minor failures produce a chain reaction of other failures because these failures cannot be isolated. </item> 
+
+<item>  This example will help.  When systems are tightly coupled, prediction is rendered difficult because systems interact in unexpected ways and a breakdown in one part quickly spreads to others.  Think about a tightly coupled schedule.  When one part changes--you are called into work because a co-worker didn't show up--it spills over into other parts of your schedule--you do bad on the test the next day because you couldn't study because you were working.)</item> 
+
+<item><emphasis>Concealed Complexity</emphasis>: Technologies are frequently backed by decision-making procedures that are opaque to independent scrutiny.  For example, the procedure by which nuclear reactors are regulated is extraordinarily complicated.  This makes it difficult to assess independently whether these procedures guarantee that only safe reactors designs will be approved by the regulatory process.</item>
+
+<item><emphasis>Technological Imperative</emphasis>: Technologies transform and redefine human needs.  Machine needs become imperative and trump human needs.  For example, food clothing, and shelter (basic human needs) are replaced by machines requirements such as electrical power, highways, bridges, sewers, and other infrastructure.  Technologies (in the form of complicated machines) have requirements that tend to push aside our own needs, values, and interests.  We build infrastructure to respond to these needs.  The tool no longer serves us; we serve the tool.</item>
+
+<item><emphasis>Reverse Adaptation</emphasis>: Because complex technologies redefine needs (and values), we are forced to adapt ourselves (and our needs) to them.  (It is assumed that we cannot adapt them to our needs because of manifest and concealed complexity.)</item>
+</list><list id="eip-598" list-type="enumerated" number-style="arabic"><title>Lens Questions</title><item>Assess the <emphasis>manifest complexity</emphasis> of the technology in question.  For example, what is the manifest complexity of windmills?  (Do they present tightly coupled systems that lead to unpredictable breakdowns?)  Which is more manifestly complex, nuclear reactors or windmill turbines?</item>
+
+<item>Assess the <emphasis>concealed complexity</emphasis>.  For example, do the operating procedures of windmills conceal complexity?  Do nuclear reactors conceal complexity in the complicated regulation process that has developed between manufacturers and the Nuclear Regulatory Commission?  (Maybe, complexity is concealed in the divergence between formal and informal regulatory procedures, the latter having evolved as the NRC has been "captured" by reactor manufacturers.)  See Ford</item>
+
+<item><emphasis>Technological Imperative</emphasis>: Does the technology redefine or displace basic human needs or basic values?  Does it require that we adopt ourselves to it?</item>
+
+<item><emphasis>Reverse Adaptation</emphasis>: Does the technology require reverse adaptation?  If yes, are there any viable "work around" strategies that could be implemented to align better the technology's needs with our own.</item></list></section></section><section id="eip-579"><title>What you are going to do</title><list id="eip-147"><title>Exercise One: Construct a Socio-Technical System Grid</title><item>Choose a test case from above.  (The alternatives include Cogentrix, Copper Mining, Windmills, and Laptops.)</item>
+
+<item>Read the module, Socio-Technical Systems in Professional Decision-Making, and modify the STS table for Puerto Rico to fit the test case you are using.</item>
+
+<item>Identify the values embedded in the technology of your test case and the STS you have modeled.</item>
+
+<item>Identify any possible value mismatches between the technology to be introduced and the underlying STS.</item></list><list id="eip-983"><title>Exercise Two</title><item>Select two of the lenses outlined above.</item>
+
+<item>Examine your test case under the first lens by answering the questions.  Give a global assessment of whether your test case technology is acceptable under the lens.</item>
+
+<item>Examine your test case under the second lens by answering the questions.  Give a global assessment of whether your test case technology is acceptable under this second lens.</item>
+
+<item>Compare the results of the two lenses.  Discuss areas of divergence between the two lenses.  Discuss the areas of convergence.</item>
+
+</list></section><section id="eip-656"><title>Prepatory Questions and Module Worksheet</title><para id="eip-211"><title>Technology Choice Preparatory Questions</title><media id="worksheet-mod" alt="Questions to Prepare for Technology Choice Module">
+  <download mime-type="application/msword" src="Questions to Prepare for Technology Choice Module.docx"/>
+</media></para><para id="eip-788"><title>Technology Choice Worksheet</title><media id="worksheet-module" alt="Worksheet on Technological Choice">
+  <download mime-type="application/msword" src="Worksheet on Technological Choice.docx"/>
+</media></para><para id="eip-273"><title>STS Presentation for Technological Choice</title><media id="presentation-techchoice" alt="STS Presentation">
+  <download mime-type="application/powerpoint" src="Technological Choice Module.pptx"/>
+</media></para><para id="eip-174"><title>Table displaying components of STSs</title><media id="STS-Table" alt="Socio-technical system table">
+  <download mime-type="application/powerpoint" src="Socio-technical Systems.docx"/>
+</media></para><para id="eip-596"><title>Presentation on Capabilities Approach</title><media id="Cap-Table" alt="Capabilities Approach Presentation">
+  <download mime-type="application/zip" src="Capabilities Approach.pptx"/>
+</media></para><para id="eip-105"><title>The Legal Environment: Civil and Criminal Responsibility</title><media id="RespPres22" alt="Moral and Legal Responsibility">
+  <download mime-type="application/zip" src="Moral and Legal Responsibility.pptx"/>
+</media></para></section><section id="eip-852"><title>Technology Choice Jeopardies</title><para id="eip-896"><title>Technological Choice Cases Jeopardy</title><media id="Jeopardy1" alt="Technological Choice Jeopardy">
+  <download mime-type="application/zip" src="Technological Choice Cases.pptx"/>
+</media>
+        </para><para id="eip-787"><title>Socio Technical Systems Jeopardy</title><media id="Jeopardy2" alt="Social Technical Systems Jeopardy">
+  <download mime-type="application/zip" src="Socio Technical Systems.pptx"/>
+</media>
+        </para><para id="eip-217"><title>Jeopardy and Responsibility</title><media id="Jeopardy3" alt="Jeopardy Responsibility">
+  <download mime-type="application/zip" src="Jeopardy_Responsibility.pptx"/>
+</media>
+        </para><para id="eip-312">
+
+</para></section><section id="eip-586"><title>Conclusion</title><list id="eip-823"><title>Evaluate the Lenses</title><item>Which of the three lenses presented in this module would you eliminate?</item>
+
+<item>Which lens did you find most helpful?  Why?</item>
+
+<item>Would you recommend a new lens?  What is it?</item></list><list id="eip-648"><title>Muddy Point</title><item>What was the most obscure or muddiest point?  (What didn’t make sense to you?  What did you find objectionable?)</item>
+
+<item>What was the strongest point of this module?  What did you learn?  Will you be able to put it to use?</item>
+</list><section id="eip-32"><title>Reference</title><list id="eip-334" list-type="enumerated" number-style="arabic"><item>Feenberg, Andrew.  (2002).  <emphasis>Transforming Technology: A Critical Theory Revisited</emphasis>.  Oxford, UL: Oxford University Press.</item>
+
+<item>Feenberg, Andrew.  (1999).  <emphasis>Questioning Technology</emphasis>.  London: Routledge.</item>
+
+<item>Ford, D.  (1981).  A Reporter At Large: Three Mile Island.  In <emphasis>The New Yorker</emphasis>, April 6, 1981: 49-106.</item> 
+
+<item>Heilbroner, R.L. (2009).  Do Machines Make History?  In <emphasis>Technology and Society: Building Our Sociotechnical Future</emphasis>, Johnson, D.G. and Wetmore, J.M., (Eds.).  Cambridge, Mass: MIT Press: 97-106.</item>
+
+<item>Hickman, L. (1990).  <emphasis>John Dewey’s Pragmatic Technology</emphasis>.  Bloomington, IN: Indiana University Press: 140-153.</item>
+
+<item>Hickman, L.  (2001)  <emphasis>Philosophical Tools for Technological Culture: Putting Pragmatism to Work</emphasis>.  Bloomington, IN: Indiana University Press.
+Your first item here</item>
+
+<item>Huff, C. and Finholt, T.  (1994).  <emphasis>Social Issues In Computing: Putting Computing in its Place</emphasis>.  New York: McGraw-Hill.</item>
+
+<item>Kuhn, T.  (1970).  <emphasis>The Structure of Scientific Revolutions, 2nd Edition</emphasis>.  Chicago, IL: University of Chicago Press.</item>  
+
+<item>Mason, J.  (1979).  The accident that shouldn't have happened: An analysis of Three Mile Island.  In <emphasis>IEEE Spectrum</emphasis>, November 1979: 33-42.</item>
+
+<item>Perrow, C. (1984).  <emphasis>Normal Accidents: Living With High-Risk Technologies</emphasis>.  Basic Books.</item>
+
+<item>Pinch, T.J. and Bijker, W.  (2009).  The Social Construction of Facts and Artifacts.  In <emphasis>Technology and Society: Building Our Sociotechnical Future</emphasis>, Johnson, D.G. and Wetmore, J.M., (Eds.).  Cambridge, Mass: MIT Press: 107-139.</item>
+
+<item>Reason, J. (1990).  <emphasis>Human Error</emphasis>.  Cambridge, UK: Cambridge University Press.</item>
+
+<item>Sismondo, S.  (2004).  <emphasis>An Introduction to Science and Technology Studies</emphasis>.  Oxford, UK: Blackwell Publishing: 51-52.
+</item>
+
+<item>Trent, March.  (1992).  The AES Corporation: Management Institute for Environment and Business.  In <emphasis>Ethical Issues in Business: A Philosophical Approach, 5th Edition</emphasis>.  Donaldson, T. and Werhane, P. (Eds.). Upper Saddle River, NJ: Prentice Hall: 424-440.</item>
+
+<item>White, Leslie.  (1949).  <emphasis>The Science of Culture</emphasis>.  New York: Farrar, Straus and Giroux, 366.</item>
+
+<item>Winner, L.  (2009).  Do Artifacts Have Politics?  In <emphasis>Technology and Society: Building Our Sociotechnical Future</emphasis>, Johnson, D.G. and Wetmore, J.M., (Eds.).  Cambridge, Mass: MIT Press: 209-226.</item>
+
+<item>Winner, L.  (1978).  <emphasis>Autonomous Technology: Technics-out-of-Control as a Theme in Political Thought</emphasis>.  Cambridge, Mass: MIT Press paperback edition.</item>
+</list></section></section><section id="eip-900"><title>Appendix</title><para id="eip-456"><title>Practical Lenses for Socio-Technical Systems</title><media id="course-pres1" alt="Practical Lenses for Socio-Technical Systems">
+  <download mime-type="application/zip" src="Practical Lenses for Socio-Technical Systems.pptx"/>
+</media>
+
+</para></section>
+</content>
+
+</document>

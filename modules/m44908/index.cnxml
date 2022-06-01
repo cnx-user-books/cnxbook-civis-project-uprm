@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Financial Literacy Module Migration to Chemical Engineering Design Courses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44908</md:content-id>
+  <md:title>Financial Literacy Module Migration to Chemical Engineering Design Courses</md:title>
+  <md:abstract>This module describes the strategy used by Dr. José Colucci, PE to migrate to the CHEME Design courses (I,II) the CIVIS Financial Literacy module developed by Dr. Jeffry Valentín. Both courses include understanding financial analysis as an integral component of its main objective.</md:abstract>
+  <md:uuid>f7109150-9f26-4f5c-838f-738c31051316</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url=" http://www.councilforeconed.org/" strength="3">Council for Economic Education</link>
+      <link url="http://econ.uprm.edu/" strength="3">UPRM Center for Economic and Financial Education</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+
+
+
+
+<content>
+
+    <section id="eip-735"><title>Objectives</title><list id="eip-873"><item>To provide the students with a basic understanding regarding personal and commercial financial analysis focusing on the Income Statement.  This includes key concepts such as:</item>
+</list><list id="eip-677" list-type="enumerated" number-style="arabic"><item>Variable costs</item>
+<item>Fixed Costs</item>
+<item>Other Costs</item>
+<item>Margins (Variable, Fixed and Other)</item>
+<item>Margins Percentage of Sales</item>
+<item>Depreciation</item>
+<item>Earnings before and after taxes</item>
+
+
+</list><list id="eip-833"><item>To provide STEM students with the tools to understand the similarities and differences between personal and commercial financial analysis.
+</item></list></section><section id="eip-928"><title>Resources / Downloads</title><para id="eip-361"><title>Click the following link to download the module document:</title><media id="module-pdf" alt="Civis Module Financial Literacy Module Migration">
+  <download mime-type="application/pdf" src="CIVIS Module Financial Literacy Migration Dr Colucci.pdf"/>
+</media>
+
+</para></section>
+
+
+  </content>
+</document>
